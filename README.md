@@ -1,5 +1,5 @@
 # Pickles!
-### Pickles is a demo-site designed to pair with the curretn Code-102 curriculum
+### Pickles is a demo-site designed to pair with the current Code-102 curriculum
 - Class 04: Wireframe and HTML
 - Class 05: CSS
 - Class 06: JavaScript - 3 separate js files exporting with `document.write();`
