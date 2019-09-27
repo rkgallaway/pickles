@@ -8,15 +8,11 @@ body {
 
 }
 
-img {
-  border: 2px solid rgb(31, 44, 4);
-  margin: 20px 0px 20px 0px;
-}
-
 /* header only */
 header {
   height: 200px;
 }
+
 header > img {
   margin: 10px;
   float: left;
@@ -59,9 +55,9 @@ main > section {
   text-align: center;
 }
 
-p.products {
-  width: 150px;
-  display: inline-block;
+.product-images {
+  border: 2px solid rgb(31, 44, 4);
+  margin: 20px 0px 20px 0px;
 }
 
 main > section > article {
@@ -96,9 +92,10 @@ footer > nav > ul > li {
   margin: 5px;
   text-align: center;
   background-color: rgb(164, 185, 122);
-  border: 1px solid black;
+  border: 1px solid rgb(31, 44, 4);
   border-radius: 25px;
   list-style:  none;
+  color: inherit;
 }
 
 footer > p{
