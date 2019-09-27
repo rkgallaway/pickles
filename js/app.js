@@ -34,7 +34,7 @@ function showOrder(){
 
   for(var i = 0; i < total; i++){
     var realCount = i + 1;
-    result = result + '<p style="width: 150px; display: inline-block; border: 1px solid black;">Model #' + realCount + ' ' + item + '</p>'
+    result = result + '<p style="width: 150px; display: inline-block; border: 1px solid black;">Product #' + realCount + ' ' + item + '</p>'
   }
   return result;
 }
